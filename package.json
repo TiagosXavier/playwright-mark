@@ -1,0 +1,13 @@
+{
+  "name": "playwright-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.10.5",
+    "dotenv": "^16.4.7"
+  },
+  "scripts": {}
+}
